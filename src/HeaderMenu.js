@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Image, Menu } from 'semantic-ui-react'
 
 const HeaderMenu = () => (
-  <Menu fixed='top' inverted>
+  <Menu fixed='top' inverted style={{ 'overflow-y': 'scroll' }}>
     <Container>
       <Menu.Item as='a' href='./' header>
         <Image
