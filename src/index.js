@@ -1,9 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
-const title = 'tearoom6'
+import Layout from './Layout'
 
 ReactDOM.render(
-  <div>{title}</div>,
+  <Layout/>,
   document.getElementById('root')
 )
