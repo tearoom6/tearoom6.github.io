@@ -51,7 +51,7 @@ const Works = () => (
         icon='file code outline'
         href='https://rubygems.org/gems/kenpo_api'
         title='KenpoApi'
-        description='Ruby binding for ITS-kenpo reservation API'
+        description='Ruby binding for ITS-kenpo reservation API.'
         buttonText='Check'
       />
     </Item.Group>

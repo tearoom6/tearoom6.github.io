@@ -7,7 +7,7 @@ const Career = () => (
     <Header as='h2'>Career</Header>
     <List>
       <CareerItem
-        title='Umitron Pte. Ltd'
+        title='Umitron Pte. Ltd.'
         period='Mar 2018 – Present'
         role='Software Engineer'
       />
@@ -27,6 +27,7 @@ const Career = () => (
         role='System Engineer'
       />
       <CareerItem
+        icon='lab'
         title='Kyoto University'
         period='Apr 2003 – Mar 2010'
         role='Master of Life Sciences'
