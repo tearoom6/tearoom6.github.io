@@ -48,6 +48,14 @@ const Works = () => (
       />
       <Work
         imgSrc=''
+        icon='github alternate'
+        href='https://atom.io/packages/s3uploader'
+        title='s3uploader'
+        description="Files uploader to Amazon S3 by drag & drop."
+        buttonText='Check'
+      />
+      <Work
+        imgSrc=''
         icon='file code outline'
         href='https://rubygems.org/gems/kenpo_api'
         title='KenpoApi'
