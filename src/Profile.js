@@ -17,7 +17,7 @@ const Profile = () => (
             <List>
               <List.Item>
                 <List.Icon name='code' />
-                <List.Content>Java, Ruby, PHP, Python, Swift, JavaScript</List.Content>
+                <List.Content>Java, Ruby, PHP, Python, Swift, Kotlin, JavaScript, Go</List.Content>
               </List.Item>
               <List.Item>
                 <List.Icon name='settings' />
