@@ -3,6 +3,12 @@
 My developer portfolio site.
 
 
+## Build JS bundle
+
+```sh
+$ yarn run webpack
+```
+
 ## References
 
 Logo sources:
