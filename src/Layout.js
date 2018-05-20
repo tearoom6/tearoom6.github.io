@@ -9,19 +9,19 @@ import Footer from './Footer'
 // Based on https://react.semantic-ui.com/layouts/fixed-menu
 const Layout = () => (
   <div>
-	  <HeaderMenu />
+    <HeaderMenu />
 
     <Container text style={{ marginTop: '7em' }}>
-	    <Profile />
+      <Profile />
 
       <Divider section />
-	    <Works />
+      <Works />
 
       <Divider section />
-	    <Career />
+      <Career />
     </Container>
 
-	  <Footer />
+    <Footer />
   </div>
 )
 
