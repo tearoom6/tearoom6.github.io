@@ -3,7 +3,7 @@ import { Container, Header, Item } from 'semantic-ui-react'
 import Work from './Work'
 
 const Works = () => (
-  <Container id="works">
+  <Container id='works'>
     <Header as='h2'>Works</Header>
     <Item.Group divided>
       <Work

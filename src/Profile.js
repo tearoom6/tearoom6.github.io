@@ -3,7 +3,7 @@ import { Container, Header, Grid, Image, List } from 'semantic-ui-react'
 import SocialLinks from './SocialLinks'
 
 const Profile = () => (
-  <Container id="profile">
+  <Container id='profile'>
     <Header as='h1'>Tomohiro Murota, a.k.a. tearoom6</Header>
 
     <Grid relaxed>

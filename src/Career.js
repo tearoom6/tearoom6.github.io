@@ -3,7 +3,7 @@ import { Container, Header, List } from 'semantic-ui-react'
 import CareerItem from './CareerItem'
 
 const Career = () => (
-  <Container id="career">
+  <Container id='career'>
     <Header as='h2'>Career</Header>
     <List>
       <CareerItem
