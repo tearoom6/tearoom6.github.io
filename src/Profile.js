@@ -25,7 +25,7 @@ const Profile = () => (
               </List.Item>
               <List.Item>
                 <List.Icon name='tags' />
-                <List.Content>AWS, Game, IoT</List.Content>
+                <List.Content>AWS, GCP, Game, IoT</List.Content>
               </List.Item>
             </List>
           </p>
