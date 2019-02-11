@@ -21,7 +21,7 @@ const Profile = () => (
               </List.Item>
               <List.Item>
                 <List.Icon name='settings' />
-                <List.Content>Rails, Spring Framework, Android, iOS, CodeIgniter, React</List.Content>
+                <List.Content>Rails, Django, Laravel, CodeIgniter, Spring Framework, Android, iOS, React</List.Content>
               </List.Item>
               <List.Item>
                 <List.Icon name='tags' />
