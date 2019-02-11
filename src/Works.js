@@ -62,6 +62,14 @@ const Works = () => (
         description='Ruby binding for ITS-kenpo reservation API.'
         buttonText='Check'
       />
+      <Work
+        imgSrc=''
+        icon='python'
+        href='https://pypi.org/project/jma-feed/'
+        title='jma-feed'
+        description='Python client library for JMA feed.'
+        buttonText='Check'
+      />
     </Item.Group>
   </Container>
 )
