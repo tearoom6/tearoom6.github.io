@@ -15,7 +15,7 @@ const HeaderMenu = () => (
       <Menu.Item as='a' href='./'>Home</Menu.Item>
       <Menu.Item as='a' href='#works'>Works</Menu.Item>
       <Menu.Item as='a' href='#career'>Career</Menu.Item>
-      <Menu.Item as='a' href='https://blog.tearoom6.biz/blog/'>Blog</Menu.Item>
+      <Menu.Item as='a' href='https://tearoom6.hateblo.jp/'>Blog</Menu.Item>
     </Container>
   </Menu>
 )

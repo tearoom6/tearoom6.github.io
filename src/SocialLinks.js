@@ -7,7 +7,7 @@ const SocialLinks = (props) => (
     <Image.Group size='mini'>
       <SocialLink href='https://github.com/tearoom6/' imgSrc='img/github.png' />
       <SocialLink href='https://www.linkedin.com/in/tearoom6/' imgSrc='img/linkedin.png' />
-      <SocialLink href='https://twitter.com/tearoom6/' imgSrc='img/twitter.png' />
+      <SocialLink href='https://twitter.com/dev_tearoom6/' imgSrc='img/twitter.png' />
       <SocialLink href='https://qiita.com/tearoom6/' imgSrc='img/qiita.png' />
     </Image.Group>
   </Container>
