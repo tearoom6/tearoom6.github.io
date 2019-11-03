@@ -31,7 +31,7 @@ const Works = () => (
         buttonText='Check'
       />
       <Work
-        imgSrc='https://a5.mzstatic.com/jp/r30/Purple3/v4/7f/e4/f3/7fe4f330-f79a-d626-5385-9488715c72e1/icon175x175.jpeg'
+        imgSrc='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c6/41/37/c6413710-975e-58e9-7cfd-6bc1f0b41972/AppIcon-1x_U007emarketing-85-220-6.png/246x0w.png'
         icon='apple'
         href='https://itunes.apple.com/jp/app/memory-game-breakthrough/id978414951'
         title='Breakthrough (iOS)'
